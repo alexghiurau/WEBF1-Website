@@ -4,3 +4,6 @@ This is my website. I will continue to develop it and learn new things as I beli
 Click [here] to launch a live version of the site.
 
 [here]: https://alexghiurau.github.io/WEBF1-Website/
+
+To do:
+* Fix nav so that it is responsive to screen size
